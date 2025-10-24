@@ -1,0 +1,13 @@
+train: C:/Users/evanc/OneDrive/桌面/parking/car/train/images
+val: C:/Users/evanc/OneDrive/桌面/parking/car/valid/images
+test: C:/Users/evanc/OneDrive/桌面/parking/car/test/images
+
+nc: 8
+names: ['car', 'my-car', 'slot-1', 'slot-2', 'slot-3', 'slot-4', 'slot-5', 'slot-6']
+
+roboflow:
+  workspace: train-2yuq6
+  project: 4-27
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/train-2yuq6/4-27/dataset/5
